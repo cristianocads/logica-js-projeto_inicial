@@ -86,3 +86,7 @@ h2 {
     font-size: 32px;
     font-weight: 400;
 }
+
+.container__imagem-robo {
+    height: 25em;
+}
