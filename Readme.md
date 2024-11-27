@@ -11,5 +11,5 @@ Resumo com os principais conceitos:
 [conceitos.md](conceitos.md)
 
 Conceito de Operadores: 
-[https://www.notion.so/Operadores-14a6f04bc906804da730cb61cea6c133](https://www.notion.so/Operadores-14a6f04bc906804da730cb61cea6c133?pvs=4)
+https://frosted-cloche-519.notion.site/Operadores-14a6f04bc906804da730cb61cea6c133
 
